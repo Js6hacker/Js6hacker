@@ -24,8 +24,7 @@ I enjoy transforming ideas into real-world products, solving technical challenge
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,materialui,jquery,vite,angular" />
-</p>
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,angular,jquery,vite" /></p>
 
 **Backend**
 <p>
