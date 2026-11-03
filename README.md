@@ -1,26 +1,39 @@
-# Hey, I’m Js6hacker 👋
+# Hi, I’m Joyal Shaji 👋
 
-**Curious builder · Lifelong learner · Interested in cybersecurity and technology**
+### Web Developer | MERN Stack Developer | AI & Cybersecurity Enthusiast
 
-I’m currently studying in college and exploring how technology works—from the systems we use every day to the ways we can make them safer. I enjoy learning through hands-on projects, asking questions, and collaborating with people who love to build and share.
+I’m a web developer focused on building practical, user-friendly applications with the MERN stack. I enjoy working across the frontend and backend, turning ideas into real products, and continuously learning new technologies. I’m also exploring AI, machine learning, and cybersecurity.
 
-## What I’m exploring
+## Core skills
 
-- 🔐 **Cybersecurity:** learning about security, responsible testing, and safer systems
-- 🌱 **Growing:** building my skills through study and practical projects
-- 🤝 **Collaboration:** open to learning with others and contributing to thoughtful projects
+- Frontend: React, JavaScript, TypeScript, HTML, CSS, Angular
+- Backend: Node.js, Express.js, Python, Flask
+- Databases: MongoDB, MySQL
+- Tools & Concepts: REST APIs, web app development, AI/ML, cybersecurity, application security
 
 ## Featured projects
 
-I’m working on building out my project portfolio. In the meantime, take a look at [my repositories](https://github.com/Js6hacker) and see what I’m exploring.
+- [Mixifia](https://github.com/Js6hacker) — A modern web project focused on delivering a polished digital experience.
+- [AICentralStore](https://github.com/Js6hacker) — An AI-focused project exploring digital store and product-based solutions.
+- [Student Records Manager](https://github.com/Js6hacker/StudentsManagementSystem) — A full-stack student records app built with React, Bootstrap, Flask, and MySQL.
+- [Telegram AI Chatbot](https://github.com/Js6hacker/AIChatBot) — A Node.js Telegram bot powered by Groq with chat memory and smart responses.
+- [Shopping Trends Predictor](https://github.com/Js6hacker/ShoppingTrends) — A data science and machine learning project that predicts shopping trends.
+- [YouTube Downloader Bot](https://github.com/Js6hacker/YoutubeDownloaderBot) — A JavaScript-based Telegram bot for downloading YouTube content.
 
-> **Have a project or learning resource to recommend?** I’d love to hear about it.
+## About me
 
-## Let’s connect
+- 🎓 B.Tech graduate in Artificial Intelligence and Data Science.
+- 🌱 Currently focused on web development, especially MERN stack applications.
+- 💡 Interested in building scalable web apps, AI-powered solutions, and secure systems.
+- 🤝 Open to collaboration, learning, and meaningful project opportunities.
 
-- **GitHub:** [@Js6hacker](https://github.com/Js6hacker)
-- **Other links:** [Add your website or social profiles]
+## Connect with me
+
+- GitHub: [@Js6hacker](https://github.com/Js6hacker)
+- LinkedIn / Portfolio: [Add your link]
+- Websites: [Add your websites]
+- Android apps: [Add your app links]
 
 ---
 
-*Always learning. Always building. Always curious.*
+Thanks for visiting my profile. I’m always learning, building, and looking for the next good challenge.
