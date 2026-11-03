@@ -24,12 +24,12 @@ I enjoy transforming ideas into real-world products, solving technical challenge
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,materialui,angular,jquery,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,materialui,jquery,vite,angular" />
 </p>
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
 **Database & Backend Services**
@@ -69,7 +69,7 @@ I enjoy transforming ideas into real-world products, solving technical challenge
 ### ⚙️ Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,r,ts,php" />
 </p>
 
 ### 🧰 Tools & Platforms
